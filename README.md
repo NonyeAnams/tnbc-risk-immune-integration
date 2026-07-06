@@ -1,4 +1,5 @@
-# Integrative Analysis of Breast Cancer Susceptibility Loci and Tumor Immune Programs Reveals Immune-Associated Candidate Genes in Triple-Negative Breast Cancer
+# Integrative Multi-Omics Analysis of Breast Cancer Susceptibility and Tumor Immune Programs in Triple-Negative Breast Cancer
+A reproducible computational biology workflow integrating GWAS susceptibility loci, TCGA RNA-seq, functional enrichment, ssGSEA immune profiling, and network analysis to identify immune-associated candidate genes.
 
 **Dataset:** TCGA-BRCA (The Cancer Genome Atlas Breast Invasive Carcinoma)
 
@@ -75,17 +76,6 @@ By prioritizing susceptibility genes exhibiting coordinated relationships with i
     <td></td>
   </tr>
 </table>
-
-Suggested figures:
-
-* Differential Expression Volcano Plot
-* Functional Enrichment Bubble Plot
-* Hallmark Pathway Enrichment
-* GWAS–TNBC Integration Diagram
-* Immune Pathway Boxplots
-* Immune Signature Heatmap
-* Multi-Scale Risk–Immune Correlation Heatmap
-* Bipartite Gene–Immune Interaction Network
 
 ---
 
@@ -255,4 +245,3 @@ Potential extensions of this workflow include:
 * Integration of single-cell RNA-seq datasets to resolve cell-type-specific immune interactions.
 * Incorporation of protein interaction and gene regulatory network analyses.
 * Integration with spatial transcriptomics to investigate immune spatial organization.
-* Experimental validation of prioritized immune-associated susceptibility genes.
