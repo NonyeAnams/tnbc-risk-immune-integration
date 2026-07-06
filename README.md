@@ -60,19 +60,21 @@ By prioritizing susceptibility genes exhibiting coordinated relationships with i
     <td><img src="results/figures/qq_plot.png" width="300"/></td>
     <td><img src="results/figures/manhattan_plot.png" width="300"/></td>
     <td><img src="results/figures/gwas_gene_snp_distribution_with_pvalue.png" width="300"/></td>
-    <td><img src="results/figures/gwas_tnbc_venn_overlap.png" width="300"/></td>
   </tr>
   <tr>
+    <td><img src="results/figures/gwas_tnbc_venn_overlap.png" width="300"/></td>
     <td><img src="results/figures/go_enrichment_bubble_plot.png" width="300"/></td>
     <td><img src="results/figures/hallmark_enrichment_barplot.png" width="300"/></td>
-    <td><img src="results/figures/immune_pathway_boxplots.png" width="300"/></td>
-    <td><img src="results/figures/immune_signature_heatmap.png" width="300"/></td>
   </tr>
   <tr>
+    <td><img src="results/figures/immune_pathway_boxplots.png" width="300"/></td>
+    <td><img src="results/figures/immune_signature_heatmap.png" width="300"/></td>
     <td><img src="results/figures/gwas_immune_correlation_heatmap.png" width="300"/></td>
-    <td></td>
+  </tr>
+  <tr>
     <td></td>
     <td><img src="results/figures/multi_gene_immune_bipartite_network.png" width="300"/></td>
+    <td></td>
     <td></td>
   </tr>
 </table>
